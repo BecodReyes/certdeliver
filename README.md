@@ -4,8 +4,8 @@
 
 _✨ Muir证书分发 ✨_
 
-灵感来源于 acmeDeliver
-基于 acme.sh && php
+灵感来源于 acmeDeliver | 基于 acme.sh && php
+
 作为 MuirNGMI 的子项目独立开源
 
 </div>
